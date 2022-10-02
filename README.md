@@ -1,20 +1,15 @@
 # Frontend Mentor - Order Summary Component
 
-This is a solution to the [NFT preview card component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-KPIT2lLC0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Overview
-
-**I did this solution without figma design because i do not have PRO Plan on Frontend Mentor, so this was very hard to make it PIXEL PERFECT**
+This is a solution to the [Order Summary Component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-H1ces7jQ5)
-- Live Site URL: [Click here](https://iosebkhe.github.io/order-summary-component-main/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/order-summary-component-Xdk6EcPyto)
+- Live Site URL: [Click here](https://iosebkhe.github.io/order-summary-component/)
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
