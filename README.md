@@ -5,7 +5,7 @@ This is a solution to the [Order Summary Component](https://www.frontendmentor.i
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/order-summary-component-Xdk6EcPyto)
-- Live Site URL: [Click here](https://iosebkhe.github.io/order-summary-component/)
+- Live Site URL: [Click here](https://ordercomp-iosebkhe.netlify.app/)
 
 - Semantic HTML5 markup
 - CSS custom properties
