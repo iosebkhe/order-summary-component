@@ -7,6 +7,7 @@ This is a solution to the [Order Summary Component](https://www.frontendmentor.i
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/order-summary-component-Xdk6EcPyto)
 - Live Site URL: [Click here](https://ordercomp-iosebkhe.netlify.app/)
 
+### Created with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
